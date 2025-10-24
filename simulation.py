@@ -1,5 +1,5 @@
 import numpy as np
-
+from models import Game
 
 if __name__ == '__main__':
     num_iterations = int(1e6)
