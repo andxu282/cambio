@@ -54,5 +54,13 @@ what are the inputs in this situation?
 
 - own_hand knowledge
 - opp_hand knowledge
-  advanced knowledge
 - EV of a random card
+- full distribution of the cards that have been played already
+- count of how long an opponent has held onto a card
+
+outputs:
+
+- probability of keeping a card
+- which card to choose to look at
+- which cards to choose to swap
+- probability of calling cambio
